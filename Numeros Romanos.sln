@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryRomanos", "ClassLibraryRomanos\ClassLibraryRomanos.csproj", "{55C50253-419F-4028-A8C5-DB47E6C60888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteRomano", "TesteRomano\TesteRomano.csproj", "{3AC59E06-B9A1-4DEE-8073-0F8EA2EA5AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C50253-419F-4028-A8C5-DB47E6C60888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C50253-419F-4028-A8C5-DB47E6C60888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C50253-419F-4028-A8C5-DB47E6C60888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C50253-419F-4028-A8C5-DB47E6C60888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC59E06-B9A1-4DEE-8073-0F8EA2EA5AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC59E06-B9A1-4DEE-8073-0F8EA2EA5AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC59E06-B9A1-4DEE-8073-0F8EA2EA5AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC59E06-B9A1-4DEE-8073-0F8EA2EA5AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D3DAB4-D513-444D-B343-8807047FB0D5}
+	EndGlobalSection
+EndGlobal
